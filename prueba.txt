@@ -1,2 +1,22 @@
 hola mundo
 sdsasd
+
+git clone https://github.com/sergoba/prueba.git
+D:\git\prueba>git status
+D:\git\prueba>git diff
+D:\git\prueba>git add .
+D:\git\prueba>git commit -m "añadimos nuevos archivos"
+
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+
+D:\git\prueba>git config --global user.email "sergio.gonzalezba@gmail.com"
+
+D:\git\prueba>git push
